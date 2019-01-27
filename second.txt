@@ -1,5 +1,0 @@
-Hello
-I make the first changes to the file.
-:)
-Generating conflict in the the new branch :)
-
